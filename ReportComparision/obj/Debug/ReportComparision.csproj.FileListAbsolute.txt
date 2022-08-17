@@ -1,0 +1,15 @@
+C:\Users\akshat.arora\source\repos\ReportComparision\ReportComparision\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\akshat.arora\source\repos\ReportComparision\ReportComparision\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\akshat.arora\source\repos\ReportComparision\ReportComparision\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\akshat.arora\source\repos\ReportComparision\ReportComparision\bin\Debug\ReportComparision.dll
+C:\Users\akshat.arora\source\repos\ReportComparision\ReportComparision\bin\Debug\ReportComparision.pdb
+C:\Users\akshat.arora\source\repos\ReportComparision\ReportComparision\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\akshat.arora\source\repos\ReportComparision\ReportComparision\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\akshat.arora\source\repos\ReportComparision\ReportComparision\bin\Debug\System.Data.OleDb.dll
+C:\Users\akshat.arora\source\repos\ReportComparision\ReportComparision\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\akshat.arora\source\repos\ReportComparision\ReportComparision\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\akshat.arora\source\repos\ReportComparision\ReportComparision\bin\Debug\System.Data.OleDb.xml
+C:\Users\akshat.arora\source\repos\ReportComparision\ReportComparision\obj\Debug\ReportComparision.csproj.CoreCompileInputs.cache
+C:\Users\akshat.arora\source\repos\ReportComparision\ReportComparision\obj\Debug\ReportComparision.csproj.CopyComplete
+C:\Users\akshat.arora\source\repos\ReportComparision\ReportComparision\obj\Debug\ReportComparision.dll
+C:\Users\akshat.arora\source\repos\ReportComparision\ReportComparision\obj\Debug\ReportComparision.pdb
